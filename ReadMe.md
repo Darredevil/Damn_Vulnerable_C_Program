@@ -6,7 +6,7 @@ Note: file name has been changed from imgRead.c to dvcp.c, if you are watching v
 **My YouTube Channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
 
 **What it is?**
-
+  
 This is a simple C program which I have coded to explain common types of vulnerabilities like:
 1. integer overflow
 2. integer underflow
