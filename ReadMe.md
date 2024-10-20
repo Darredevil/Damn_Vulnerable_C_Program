@@ -17,7 +17,7 @@ This is a simple C program which I have coded to explain common types of vulnera
 7. Memory leaks
 8. Stack exhaustion
 9. Heap exhastion
-
+   
 This C program contains vulenrable code of all of the above vulnerabilities and you can fuzz it using any fuzzer like AFL, libafl, libfuzzer, hongfuzz, winafl, jackalope or any other fuzzer which you want. 
 
 **How to Compile**
